@@ -1,4 +1,4 @@
-# Excel-Projects
+# Data Analysis on Excel
 This project is a part of the Accenture Data Analytics and Visualisation Virtual Internship hosted by Forage. Link to the internship: https://www.theforage.com/virtual-internships/prototype/hzmoNKtzvAzXsEqx8/Data-Analytics-Virtual-Experience?ref=fTa6aHFS8jPfvMW28
 
 The internship is designed to simulate a real-life data analysis project. It gave a wonderful opportunity to experience as to what it is like to be inside the firm and got an exprience around what they do day-to-day in terms of collecing and capturing data, analyzing that data, and drawing out deep insights to be able to present those to the clients.
