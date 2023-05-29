@@ -6,6 +6,7 @@ The internship is designed to simulate a real-life data analysis project. It gav
 Data Source: Excel file containing the data used, has been uploaded.
 
 # Project Overview:
+`An analysis of the content categories showing the top 5 categories with the largest popularity`
 My task was to analyze the data provided by the client, which contained information about content, reactions and sessions. I used MS Excel to clean, manipulate, and visualize the data. Through this process, I were able to identify key trends and insights, which were used to provide recommendations to the client.
 
 ## Modules
