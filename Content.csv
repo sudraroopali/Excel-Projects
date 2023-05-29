@@ -1,0 +1,11 @@
+Steps for cleaning the data 
+
+1. Drop the columns that are not useful for analysis 
+2. Check if all the rows and columns are clean
+"go to data, add the filter to the column names only"
+then chek the filter and see if the data is in the same format 
+and do find and replace to make sure data is similar 
+3. remove any blanks from the data 
+4. merge the 3 excel sheets into one using vlookup 
+"firstly, we will move a copy of the content sheet to reactions workbook by "
+going to home -> format -> move and copy 
